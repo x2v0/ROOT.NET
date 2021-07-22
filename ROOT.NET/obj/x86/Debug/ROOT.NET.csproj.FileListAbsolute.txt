@@ -1,0 +1,6 @@
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\bin\x86\Debug\ROOT.NET.dll
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\bin\x86\Debug\ROOT.NET.pdb
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\obj\x86\Debug\ROOT.Resource.resources
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\obj\x86\Debug\ROOT.NET.csproj.GenerateResource.Cache
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\obj\x86\Debug\ROOT.NET.dll
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\obj\x86\Debug\ROOT.NET.pdb

@@ -1,0 +1,5 @@
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\bin\x86\Release\ROOT.NET.dll
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\obj\x86\Release\ROOT.NET.csprojResolveAssemblyReference.cache
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\obj\x86\Release\ROOT.Resource.resources
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\obj\x86\Release\ROOT.NET.csproj.GenerateResource.Cache
+D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\obj\x86\Release\ROOT.NET.dll

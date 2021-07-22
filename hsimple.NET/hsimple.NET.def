@@ -1,0 +1,4 @@
+LIBRARY "hsimple.NET"
+EXPORTS
+   hsimple
+

@@ -1,0 +1,23 @@
+LIBRARY	"ROOTdotNET"
+EXPORTS
+   newTApplication
+   TApplicationRefresh
+   ExecuteRootMacro
+   LoadRootMacro
+   LoadRootDLL
+   ProcessRootLine
+   ProcessRootLineSync
+   LMouseDownCanvas
+   LMouseUpCanvas
+   RMouseDownCanvas
+   RMouseUpCanvas
+   MouseMoveCanvas
+   EnterCanvas
+   UpdateCanvas
+   ResizeCanvas
+   GetCanvasByHandle
+   GetCanvasByName
+   CreateTCanvas
+   SaveCanvasAs
+   DoubleClickCanvas
+

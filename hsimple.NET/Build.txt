@@ -1,0 +1,10 @@
+# $Id: Build.txt 877 2011-10-12 05:19:00Z onuchin $
+# Author: Valeriy Onuchin  07.07.2011
+
+To build:
+1. Put ROOT.NET.dll, ROOTdotNET.dll into ..\Redist directory
+2. To  build - pass debug or release at the command line, e.g. pbuild.bat debug
+
+To cleanup - run pcleanup.bat
+
+

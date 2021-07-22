@@ -1,0 +1,42 @@
+﻿Build started 26.02.2021 0:49:53.
+     1>Project "D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\ROOTdotNET.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\ROOTdotNET.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\ROOTdotNET.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\root_v5.34.32\include /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D ROOTdotNET_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /analyze- /errorReport:prompt ROOTdotNET.cxx /clr:nostdlib 
+         ROOTdotNET.cxx
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\root_v5.34.32\include /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D ROOTdotNET_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "D:\xtovo\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\Debug\ROOTdotNET.dll" /INCREMENTAL /NOLOGO C:\root_v5.34.32\lib\libCint.lib C:\root_v5.34.32\lib\libCore.lib C:\root_v5.34.32\lib\libRIO.lib C:\root_v5.34.32\lib\libMathcore.lib C:\root_v5.34.32\lib\libMatrix.lib C:\root_v5.34.32\lib\libHist.lib C:\root_v5.34.32\lib\libGraf.lib C:\root_v5.34.32\lib\libGpad.lib C:\root_v5.34.32\lib\libAfterImage.lib C:\root_v5.34.32\lib\libASImage.lib C:\root_v5.34.32\lib\libGui.lib C:\root_v5.34.32\lib\libASImageGui.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"ROOTdotNET.def" /MANIFEST /ManifestFile:"Debug\ROOTdotNET.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\Debug\ROOTdotNET.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\ROOTdotNET.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            Creating library D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\Debug\ROOTdotNET.lib and object D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\Debug\ROOTdotNET.exp
+     1>ROOTdotNET.obj : warning LNK4248: unresolved typeref token (01000019) for 'TClass'; image may not run
+     1>ROOTdotNET.obj : warning LNK4248: unresolved typeref token (0100001C) for 'TVectorT<double>'; image may not run
+     1>ROOTdotNET.obj : warning LNK4248: unresolved typeref token (0100001D) for 'TText'; image may not run
+     1>ROOTdotNET.obj : warning LNK4248: unresolved typeref token (0100001E) for 'TArrayL'; image may not run
+     1>ROOTdotNET.obj : warning LNK4248: unresolved typeref token (01000020) for 'TMemberInspector'; image may not run
+         ROOTdotNET.vcxproj -> D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\Debug\ROOTdotNET.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\Debug\ROOTdotNET.dll;#2" /manifest Debug\ROOTdotNET.dll.intermediate.manifest
+       PostBuildEvent:
+         cmd /c xcopy /y "D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\Debug\ROOTdotNET.dll" "D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\..\Redist\"
+         cmd /c xcopy /y "D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\Debug\ROOTdotNET.pdb" "D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\..\Redist\"
+         
+         :VCEnd
+         D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\Debug\ROOTdotNET.dll
+         1 File(s) copied
+         D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\Debug\ROOTdotNET.pdb
+         1 File(s) copied
+       FinalizeBuildStatus:
+         Deleting file "Debug\ROOTdotNET.unsuccessfulbuild".
+         Touching "Debug\ROOTdotNET.lastbuildstate".
+     1>Done Building Project "D:\xtovo\wrk\ROOTNET.sav\ROOT.NET\ROOTdotNET.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.14

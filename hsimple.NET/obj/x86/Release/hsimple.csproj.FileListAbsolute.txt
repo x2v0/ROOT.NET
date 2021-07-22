@@ -1,0 +1,8 @@
+D:\xtovo\wrk\ROOTNET.sav\hsimple.NET\bin\x86\Release\hsimple.exe.config
+D:\xtovo\wrk\ROOTNET.sav\hsimple.NET\bin\x86\Release\hsimple.exe
+D:\xtovo\wrk\ROOTNET.sav\hsimple.NET\bin\x86\Release\ROOT.NET.dll
+D:\xtovo\wrk\ROOTNET.sav\hsimple.NET\bin\x86\Release\ROOTdotNET.dll
+D:\xtovo\wrk\ROOTNET.sav\hsimple.NET\obj\x86\Release\hsimple.csprojResolveAssemblyReference.cache
+D:\xtovo\wrk\ROOTNET.sav\hsimple.NET\obj\x86\Release\Hsimple.Form1.resources
+D:\xtovo\wrk\ROOTNET.sav\hsimple.NET\obj\x86\Release\hsimple.csproj.GenerateResource.Cache
+D:\xtovo\wrk\ROOTNET.sav\hsimple.NET\obj\x86\Release\hsimple.exe

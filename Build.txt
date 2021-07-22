@@ -1,0 +1,9 @@
+# $Id: Build.txt 1623 2013-01-23 09:55:14Z onuchin $
+# Author: Valeriy Onuchin 11.10.2011
+
+To build release version just click on the "pbuild.bat" file,
+for debug virsion pass "debug" at the command line, i.e. "pbuild.bat debug"
+To cleanup - run "pclean.bat"
+
+After successive build executables will be located
+in the .\bin directory, for example .\bin\hsimple\hsimple.exe
